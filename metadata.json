@@ -1,0 +1,6 @@
+{
+  "name": "خلاصه تلگرام",
+  "description": "اپلیکیشن هوشمند واکشی و خلاصه‌سازی اخبار کانال‌های تلگرام به زبان فارسی با هوش مصنوعی جمینای",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
